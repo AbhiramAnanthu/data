@@ -2,5 +2,4 @@ notebook
 beautifulSoup4
 pandas
 kagglehub
-sqlite3
 scikit-learn
